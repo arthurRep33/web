@@ -1,0 +1,30 @@
+header {
+    background-color: aquamarine;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+}
+nav{
+    background-color: blueviolet;
+    color: aquamarine;
+    padding: 8px;
+    text-align: center;
+    font-size: 16px;
+}
+main{
+    padding: 100px;
+    text-align: center;
+    background-color: aliceblue;
+    color: black;
+    width: 30%;
+    height: 250px;
+    margin: 20px auto;
+    border-radius: 20px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    padding: 10px;
+    font-size: 16px;
+}
